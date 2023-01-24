@@ -37,3 +37,19 @@
 
 #### 3.3 Modify parameters/values as follows:
 ![image](https://user-images.githubusercontent.com/121900164/214267691-1fdc09e4-430b-4e57-bdc6-f9509527c567.png)
+
+#### Ctrl X + Y + Enter to save changes (It might be different)
+
+## Task 4 Creat and Add FTP user
+
+``sudo adduser tester``
+
+``sudo passwd tester``
+
+#### 4.1 Add the new user to the allowed FTP users list
+
+``echo "tin" | sudo tee -a /etc/vsftpd.userlist``
+
+#### Restart VSFTPD service
+
+``sudo systemctl restart vsftpd``

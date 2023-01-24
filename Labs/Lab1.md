@@ -1,4 +1,4 @@
-## Lab 1. Set up Virtual Machine, Choose your own flavor (Bare metal (pc), Azure, AWS, Virtual Machine, VMware, etc.)
+# Lab 1. Set up Virtual Machine, Choose your own flavor (Bare metal (pc), Azure, AWS, Virtual Machine, VMware, etc.)
 
 ## Choose your Deb. Linux based flavor (Ubuntu, Debian, Mint, etc.)
 

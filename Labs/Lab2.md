@@ -1,4 +1,4 @@
-# Set up cloud storage and FTP (vsFTP)
+# Set FTP (vsFTP) server
 ## Task 1 Install vsFTP command
 
 ``sudo apt update`` 

@@ -50,6 +50,27 @@
 
 ``echo "tin" | sudo tee -a /etc/vsftpd.userlist``
 
-#### Restart VSFTPD service
+#### 4.2 Restart VSFTPD service
 
 ``sudo systemctl restart vsftpd``
+
+#### (Optional) To enable vsFTP at startup
+
+``sudo systemctl enable vsftpd``
+
+## Task 5 test this service; In this exercise, we'll use "Filezilla"
+
+#### 5.1 Install Filezilla
+
+``sudo apt install filezilla``
+
+#### 5.2 launch FileZilla, either through the command line or GUI
+``filezilla``
+
+#### 5.3 Try connecting with the "tester" user you created
+
+#### 5.4 Look up IP of your server 
+
+``ip a``
+
+In the Filezilla window, type the IP address of the FTP server, username, and password in their respective fields. Then, click Quick connect to connect to the vsftpd FTP server

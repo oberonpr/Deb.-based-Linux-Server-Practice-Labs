@@ -73,6 +73,6 @@
 
 ``ip a``
 
-#### In the Filezilla window, type the IP address of the FTP server, username, and password in their respective fields
+#### 5.5 In the Filezilla window, type the IP address of the FTP server, username, and password in their respective fields
 
-#### Click Quick connect to connect to the vsftpd FTP server
+#### 5.6 Click Quick connect to connect to the vsftpd FTP server

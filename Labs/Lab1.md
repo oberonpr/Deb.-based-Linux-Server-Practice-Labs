@@ -18,4 +18,4 @@
 
 ``sudo apt upgrade``
 
-``sudo apt-upgrade``
+``sudo apt-get upgrade``

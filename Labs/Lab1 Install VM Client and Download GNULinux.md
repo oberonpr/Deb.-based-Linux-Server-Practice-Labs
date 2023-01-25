@@ -8,7 +8,7 @@ Follow the installation process and make sure to:
 
 -Name "main" user for the first VM and "secondary" user on the second VM. Make sure to set an easy-to-remember password.
 
--Use the same username as Host-name
+-Use the same username as Host-name for each VM
 
 -Check desired desktop environment or uncheck if you plan to run headless. For beginners, choose Mate or Cinnamon.
 

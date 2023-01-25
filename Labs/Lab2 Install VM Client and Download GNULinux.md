@@ -14,7 +14,7 @@ Follow the installation process and make sure to:
 
 -After installation, make sure to update your fresh install.
 
-#The command might vary depending on the chosen distribution.
+#The update/upgrade command might vary depending on the chosen distribution.
 
 ``sudo apt update``
 

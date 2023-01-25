@@ -24,10 +24,10 @@
 
 ``sudo systemctl status sshd``
 
-#### Task 4 Enabling SSH traffic on your firewall settings
+#### Task 3.2 Enabling SSH traffic on your firewall settings
 
 ``sudo ufw allow ssh``
 
-#### Optional Task, Enable SSH server on system boot
+#### Optional Task 3.3, Enable SSH server on system boot
 
 ``sudo systemctl enable ssh``

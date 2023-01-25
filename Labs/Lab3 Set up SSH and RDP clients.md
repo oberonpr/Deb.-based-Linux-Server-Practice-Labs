@@ -32,9 +32,9 @@
 
 ``sudo systemctl enable ssh``
 
-### Task 4 Try connecting to your "Secondary" VM through OpenSSH, Make sure your VM is up
+#### Task 4 Try connecting to your "Secondary" VM through OpenSSH, Make sure your VM is up
 
-#### Task 4.1 Search for this process at www.google.com or www.duckduckgo.com or any search engine
+### Task 4.1 Search for this process at www.google.com or www.duckduckgo.com or any search engine
 
 "How to connect through SSH Debian"
 

@@ -31,3 +31,7 @@
 #### Optional Task 3.3, Enable SSH server on system boot
 
 ``sudo systemctl enable ssh``
+
+### Task 4 Try connecting to your "Secondary" VM through OpenSSH, Make sure your VM is up
+
+#### Task 4.1 Search for this process at www.google.com or www.DuckDuckGo.com or any Search engine

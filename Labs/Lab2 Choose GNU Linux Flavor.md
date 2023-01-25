@@ -1,4 +1,4 @@
-# Choose your Deb. After downloading the Linux-based flavor (Ubuntu, Debian, Mint, Elementary.), start the installation.
+# Lab 2. Choose your Deb. After downloading the Linux-based flavor (Ubuntu, Debian, Mint, Elementary.), start the installation.
 
 -Download ISO and boot to install.
 

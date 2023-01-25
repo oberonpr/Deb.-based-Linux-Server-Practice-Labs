@@ -1,4 +1,4 @@
-# Lab 3. Set up a remote desktop client 
+# Lab 4. Set up a remote desktop client 
 
 ## For this exercise, we'll use two clients; Remmina and FreeRDP
 
@@ -13,3 +13,5 @@
 ``sudo apt update``
 
 ``sudo apt install remmina remmina-plugin-rdp remmina-plugin-secret remmina-plugin-spice``
+
+#### Task 3 Test by connecting to the scond VM we created on lab 3

@@ -1,4 +1,4 @@
-# Lab 2. Install VM client and GNU/Linux
+# Lab 1. Install VM client and GNU/Linux
 
 ## Make sure you have VM Client prepared and ISO file of desired GNU/Linux Downloaded, Make sure it's (Deb.) based.
 

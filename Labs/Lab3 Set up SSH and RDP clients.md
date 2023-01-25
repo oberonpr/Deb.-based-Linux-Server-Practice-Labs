@@ -1,4 +1,4 @@
-# Lab3 Set up SSH and RDP clients
+# Lab 3 Set up SSH and RDP clients
 
 ## For this exercise, we'll use three clients; OpenSSH, FreeRDP, and Remmina
 

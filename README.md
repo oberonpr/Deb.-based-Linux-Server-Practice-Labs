@@ -11,4 +11,4 @@
 
 - Feel free to use your flavor of both GNU/Linux and VM client; as long as your Linux selection is Deb. based, you should be able to run every Lab.
 
-- This is a rolling project, meaning the number of labs and some of its content might change with time to bring better quality practice.
+- This is a rolling project, meaning the number of labs and some of its content might change with time to bring better quality content.

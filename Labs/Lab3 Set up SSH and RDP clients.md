@@ -1,6 +1,6 @@
 # Lab3 Set up SSH and RDP clients
 
-## For this exercise, we'll use three clients; SSH, FreeRDP and Remmina
+## For this exercise, we'll use three clients; OpenSSH, FreeRDP, and Remmina
 
 #### Task 1 Install FreeRDP
 
@@ -14,5 +14,20 @@
 
 ``sudo apt install remmina remmina-plugin-rdp remmina-plugin-secret remmina-plugin-spice``
 
-#### Task 3 Set Up SSH
+#### Task 3 Install OpenSSH
 
+``sudo apt-get update``
+
+``sudo apt-get install openssh-server``
+
+#### Task 3.1 Check your newly installed service
+
+``sudo systemctl status sshd``
+
+#### Task 4 Enabling SSH traffic on your firewall settings
+
+``sudo ufw allow ssh``
+
+#### Optional Task, Enable SSH server on system boot
+
+``sudo systemctl enable ssh``

@@ -10,7 +10,7 @@ Follow the installation process and make sure to:
 
 -Use the same username as Host-name for each VM
 
--Check desired desktop environment or uncheck if you plan to run headless. For beginners, choose Xfce, Mate or Cinnamon.
+-Check desired desktop environment or uncheck if you plan to run headless. For beginners, choose Mate, Cinnamon.
 
 -After installation, make sure to update your fresh install.
 

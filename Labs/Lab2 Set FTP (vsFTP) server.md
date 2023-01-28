@@ -15,7 +15,25 @@
 
 ``sudo ufw status``
 
-#### 2.2 Allow ports 20 and 21
+#### 2.2 If command not found, set up ufw (Uncomplicated Firewall)
+
+``sudo apt install ufw``
+
+Change values to enable IPv4 and IPv6 ports
+
+``sudo nano /etc/default/ufw``
+
+IPV6=yes
+
+IPV4=yes
+
+After modifying, press ctrl + x and Y to save
+
+To change policies ``sudo ufw default [policy] [chain]`` search this topic yourself
+
+Verify status again ``sudo ufw status``
+
+#### 2.3 Allow ports 20 and 21
 
 ``sudo ufw allow 20/tcp``
 

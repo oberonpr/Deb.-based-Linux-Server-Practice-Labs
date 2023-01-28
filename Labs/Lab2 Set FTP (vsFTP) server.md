@@ -128,4 +128,4 @@ Ctrl X + Y + Enter to save changes
 
 ``filezilla``
 
-For further understanding and application of these apps, search apart.
+**For further understanding and application of these apps, search apart.**

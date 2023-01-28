@@ -10,9 +10,9 @@
 
 ``sudo vsftpd -versions``
 
-## Task 2 Allow FTP in the firewall
+## Task 2 Allow FTP in the Firewall
 
-#### 2.1 Veify FW status
+#### 2.1 Verify FW status
 
 ``sudo ufw status``
 
@@ -34,7 +34,7 @@ To change policies ``sudo ufw default [policy] [chain]`` search this topic yours
 
 Verify status again ``sudo ufw status``
 
-If status "inactive", activate it ``sudo ufw enable``
+If the status "inactive", activate it ``sudo ufw enable``
 
 Verify status again ``sudo ufw status``
 
@@ -50,7 +50,7 @@ Verify status again ``sudo ufw status``
 
 ## Task 3 Configure FTP access
 
-#### 3.1 Create copy of vsftpd.conf file
+#### 3.1 Create a copy of vsftpd.conf file
 
 ``sudo cp /etc/vsftpd.conf /etc/vsftpd.conf.orig``
 
@@ -102,7 +102,7 @@ Verify status again ``sudo ufw status``
 
 Ctrl X + Y + Enter to save changes
 
-## Task 4 Creat and Add FTP user
+## Task 4 Create and Add FTP user
 
 ``sudo adduser tester``
 
@@ -120,21 +120,12 @@ Ctrl X + Y + Enter to save changes
 
 ``sudo systemctl enable vsftpd``
 
-## Task 5 test this service; In this exercise, we'll use "Filezilla"
-
-#### 5.1 Install Filezilla
+## Task 5 Install Filezilla
 
 ``sudo apt install filezilla``
 
-#### 5.2 launch FileZilla, either through the command line or GUI
+#### 5.2 launch FileZilla
+
 ``filezilla``
 
-#### 5.3 Try connecting with the "tester" user you created
-
-#### 5.4 Look up IP of your server 
-
-``ip a``
-
-#### 5.5 In the Filezilla window, type the IP address of the FTP server, username, and password in their respective fields
-
-#### 5.6 Click Quick connect to connect to the vsftpd FTP server
+For further understanding of these apps, search yourself; this is a beginner installation guide.

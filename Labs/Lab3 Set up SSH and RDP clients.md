@@ -34,4 +34,4 @@ Task 3.2 Enabling SSH traffic on your firewall settings
 
 #### Task 4 Try connecting to your "Secondary" VM through OpenSSH, Make sure your VM is up
 
-There are already a lot of tutorials on how to connect, search apart.
+**Search apart.**

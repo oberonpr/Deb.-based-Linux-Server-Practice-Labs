@@ -23,9 +23,9 @@ Change values to enable IPv4 and IPv6 ports
 
 ``sudo nano /etc/default/ufw``
 
-IPV6=yes
+``IPV6=yes``
 
-IPV4=yes
+``IPV4=yes``
 
 After modifying, press ctrl + x and Y to save
 

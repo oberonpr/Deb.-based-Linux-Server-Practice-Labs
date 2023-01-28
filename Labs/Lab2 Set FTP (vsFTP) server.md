@@ -58,7 +58,46 @@ Verify status again ``sudo ufw status``
 ``sudo nano /etc/vsftpd.conf``
 
 #### 3.3 Modify parameters/values as follows:
-![image](https://user-images.githubusercontent.com/121900164/214267691-1fdc09e4-430b-4e57-bdc6-f9509527c567.png)
+
+``listen=NO
+
+listen_ipv6=YES
+
+anonymous_enable=NO
+
+local_enable=YES
+
+write_enable=YES
+
+dirmessage_enable=YES
+
+use_localtime=YES
+
+xferlog_enable=YES
+
+connect_from_port_20=YES
+
+chroot_local_user=YES
+
+secure_chroot_dir=/var/run/vsftpd/empty
+
+pam_service_name=vsftpd
+
+rsa_cert_file=/etc/ssl/private/vsftpd.pem
+
+rsa_private_key_file=/etc/ssl/private/vsftpd.pem
+
+ssl_enable=YES
+
+user_sub_token=$USER
+
+local_root=/home/$USER/ftp
+
+userlist_enable=YES
+
+userlist_file=/etc/vsftpd.user_list
+
+userlist_deny=NO``
 
 #### Ctrl X + Y + Enter to save changes (It might be different)
 

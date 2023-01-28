@@ -27,7 +27,7 @@ Change values to enable IPv4 and IPv6 ports
 
 ``IPV4=yes``
 
-After modifying, press ctrl + x and Y to save
+After modifying, press ctrl + x then press Y and hit Enter to save
 
 To change policies ``sudo ufw default [policy] [chain]`` search this topic yourself
 

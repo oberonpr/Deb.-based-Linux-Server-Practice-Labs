@@ -30,7 +30,7 @@ Change values to enable IPv4 and IPv6 ports
 
 After modifying, Ctrl X + Y + Enter to save changes
 
-To change policies ``sudo ufw default [policy] [chain]`` search this topic yourself
+To change policies ``sudo ufw default [policy] [chain]`` search this topic apart
 
 Verify status again ``sudo ufw status``
 
@@ -128,4 +128,4 @@ Ctrl X + Y + Enter to save changes
 
 ``filezilla``
 
-For further understanding of these apps, search yourself; this is a beginner installation guide.
+For further understanding of these apps, search for it.

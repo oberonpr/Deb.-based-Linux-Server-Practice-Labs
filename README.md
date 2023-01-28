@@ -7,9 +7,9 @@
 
 - "Labs" can be done in a different order as long as you complete "Lab 1."
 
-- The GNU/Linux I used to create and test these labs was Debian 11 "Bullseye" with "Mate" as my desktop environment and "Gnome Boxes" for the Virtual Machines. 
+- The GNU/Linux I used to create and test these labs was Debian 11 (Bullseye), Ubuntu 22.10 (Kinetic Kudu), and Linux Mint 21.1, and for my virtual machines, I used "Gnome Boxes."
 
-- Feel free to use your flavor of both GNU/Linux and VM client; as long as your Linux selection is Deb. based, you should be able to run every Lab.
+- Feel free to use your flavor of both GNU/Linux and Virtual Machine client; as long as your Linux selection is Deb. based, you should be able to run every Lab.
 
 - This is a rolling project, meaning the number of labs and some of its content might change with time to bring better quality content.
 

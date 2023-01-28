@@ -12,3 +12,5 @@
 - Feel free to use your flavor of both GNU/Linux and VM client; as long as your Linux selection is Deb. based, you should be able to run every Lab.
 
 - This is a rolling project, meaning the number of labs and some of its content might change with time to bring better quality content.
+
+- These Labs are an introduction. To further understand each application, you must search it apart; the ability to search and gather solutions to a problem and apply them correctly is critical to surviving the "IT" world. I strongly advise nourishing this ability.

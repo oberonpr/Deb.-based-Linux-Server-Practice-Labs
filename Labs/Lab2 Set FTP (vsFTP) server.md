@@ -33,6 +33,10 @@ To change policies ``sudo ufw default [policy] [chain]`` search this topic yours
 
 Verify status again ``sudo ufw status``
 
+If status "inactive", activate it ``sudo ufw enable``
+
+Verify status again ``sudo ufw status``
+
 #### 2.3 Allow ports 20 and 21
 
 ``sudo ufw allow 20/tcp``

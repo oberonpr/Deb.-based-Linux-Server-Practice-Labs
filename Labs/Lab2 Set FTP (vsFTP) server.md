@@ -7,7 +7,7 @@
 
 #### Verify vsFTP version 
 
-``vsftpd -versions``
+``sudo vsftpd -versions``
 
 ## Task 2 Allow FTP in the firewall
 

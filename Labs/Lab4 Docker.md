@@ -10,6 +10,4 @@
 
 #### Task 2 Run container using Docker
 
-
-
 Video tutorial for installing both and running container: ----

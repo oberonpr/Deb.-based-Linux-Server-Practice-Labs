@@ -26,7 +26,7 @@ Task 3.1 Check your newly installed service
 
 OpenSSH: ``sudo systemctl status sshd``
 
-Remmina:
+Remmina: You can open this through the GUI, search your apps
 
 Task 3.2 Enabling SSH traffic on your firewall settings
 
@@ -36,4 +36,4 @@ Task 3.2 Enabling SSH traffic on your firewall settings
 
 ``sudo systemctl enable ssh``
 
-#### Task 4 Try connecting to your "Secondary" VM through OpenSSH, Make sure your VM is up. For learning how to remote connect through these apps, look apart.
+#### Task 4 Try connecting to your "Secondary" VM through OpenSSH. Make sure your VM is up. For learning how to remote connect through these apps, look apart.

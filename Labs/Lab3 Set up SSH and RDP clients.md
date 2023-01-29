@@ -32,6 +32,4 @@ Task 3.2 Enabling SSH traffic on your firewall settings
 
 ``sudo systemctl enable ssh``
 
-#### Task 4 Try connecting to your "Secondary" VM through OpenSSH, Make sure your VM is up
-
-**For learning how to connect through these apps, look apart.**
+#### Task 4 Try connecting to your "Secondary" VM through OpenSSH, Make sure your VM is up. For learning how to connect through these apps, look apart.

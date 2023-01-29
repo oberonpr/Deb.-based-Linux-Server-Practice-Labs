@@ -12,7 +12,9 @@
 
 ``sudo apt update``
 
-``sudo apt install remmina remmina-plugin-rdp remmina-plugin-secret remmina-plugin-spice``
+``sudo apt install remmina remmina-plugin-rdp remmina-plugin-secret remmina-plugin-spice``3
+
+If the previous command doesn't work: ``sudo apt install remmina``
 
 #### Task 3 Install OpenSSH
 
@@ -22,7 +24,9 @@
 
 Task 3.1 Check your newly installed service
 
-``sudo systemctl status sshd``
+OpenSSH: ``sudo systemctl status sshd``
+
+Remmina:
 
 Task 3.2 Enabling SSH traffic on your firewall settings
 

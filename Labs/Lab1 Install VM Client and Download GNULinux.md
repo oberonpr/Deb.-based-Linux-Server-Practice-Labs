@@ -23,3 +23,5 @@ Follow the installation process and make sure to:
 ``sudo apt upgrade``
 
 ``sudo apt-get upgrade``
+
+- How to install and update/upgrade Deb. based GNU/Linux: --

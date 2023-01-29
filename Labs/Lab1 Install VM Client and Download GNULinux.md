@@ -1,8 +1,8 @@
-# Lab 1. Install a Virtual Machine client and GNU/Linux
+# Lab 1. Install a Virtual Machine client and GNU/Linux.
 
 ## Make sure you have the VM Client prepared and the ISO file of desired GNU/Linux Downloaded. Make sure it's (Deb.) based.
 
-#### Start VM Client and install GNU/Linux on two VMs
+#### Start VM Client and install GNU/Linux on two VMs.
 
 Follow the installation process and make sure to:
 
@@ -24,4 +24,4 @@ Follow the installation process and make sure to:
 
 ``sudo apt-get upgrade``
 
--How to install and update/upgrade Deb. based GNU/Linux: --
+-How to install and update/upgrade Deb. based GNU/Linux: ----

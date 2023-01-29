@@ -2,7 +2,7 @@
 
 ## Make sure you have the VM Client prepared and the ISO file of desired GNU/Linux Downloaded. Make sure it's (Deb.) based.
 
-#### Start VM Client and install GNU/Linux on two VMs.
+##### Start the VM Client and install GNU/Linux on two Virtual Machines.
 
 Follow the installation process and make sure to:
 

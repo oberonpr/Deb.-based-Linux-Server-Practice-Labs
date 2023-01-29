@@ -26,7 +26,7 @@ If the previous command doesn't work: ``sudo apt install remmina``
 
 OpenSSH: ``sudo systemctl status sshd``
 
-Remmina: You can open this through the GUI, search your apps
+Remmina: ``You can open this through the GUI, search your apps``
 
 #### Task 3.2 Enabling SSH traffic on your firewall settings
 

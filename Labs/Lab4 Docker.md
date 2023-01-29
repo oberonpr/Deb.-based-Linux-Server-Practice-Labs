@@ -4,7 +4,11 @@
 
 #### Task 1 Follow docker's installation process through the official guide
 
-https://docs.docker.com/desktop/install/debian/
+Docker Engine: https://docs.docker.com/engine/
+
+Docker Desktop: https://docs.docker.com/desktop/
+
+Video tutorial for both: ----
 
 #### Task 2 Run container using Docker
 

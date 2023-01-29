@@ -8,8 +8,8 @@
 
 -Docker Desktop: https://docs.docker.com/desktop/
 
-Video tutorial for both: ----
-
 #### Task 2 Run container using Docker
 
-``
+
+
+Video tutorial for installing both and running container: ----

@@ -4,9 +4,9 @@
 
 #### Task 1 Follow docker's installation process through the official guide
 
-Docker Engine: https://docs.docker.com/engine/
+-Docker Engine: https://docs.docker.com/engine/
 
-Docker Desktop: https://docs.docker.com/desktop/
+-Docker Desktop: https://docs.docker.com/desktop/
 
 Video tutorial for both: ----
 

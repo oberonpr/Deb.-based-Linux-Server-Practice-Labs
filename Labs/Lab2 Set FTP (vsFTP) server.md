@@ -6,21 +6,21 @@
 
 ``sudo apt install vsftpd``
 
-#### Verify vsFTP version.
+### Task 1.1 Verify vsFTP version.
 
 ``sudo vsftpd -versions``
 
 ## Task 2 Allow FTP in the Firewall.
 
-#### 2.1 Verify FW status.
+### Task 2.1 Verify FW status.
 
 ``sudo ufw status``
 
-#### 2.2 If command not found, set up ufw. (Uncomplicated Firewall)
+### Task 2.2 If command not found, set up ufw. (Uncomplicated Firewall)
 
 ``sudo apt install ufw``
 
-Change values to enable IPv4 and IPv6 ports.
+### Task 2.3 Change values to enable IPv4 and IPv6 ports.
 
 ``sudo nano /etc/default/ufw``
 
@@ -38,27 +38,27 @@ If the status "inactive", activate it ``sudo ufw enable``
 
 Verify status again ``sudo ufw status``
 
-#### 2.3 Allow ports 20 and 21.
+### Task 2.4 Allow ports 20 and 21.
 
 ``sudo ufw allow 20/tcp``
 
 ``sudo ufw allow 21/tcp``
 
-#### Verify status again.
+### Task 2.5 Verify status again.
 
 ``sudo ufw status``
 
 ## Task 3 Configure FTP access.
 
-#### 3.1 Create a copy of vsftpd.conf file.
+### Task 3.1 Create a copy of vsftpd.conf file.
 
 ``sudo cp /etc/vsftpd.conf /etc/vsftpd.conf.orig``
 
-#### 3.2 Modify vsftpd.conf file.
+### Task 3.2 Modify vsftpd.conf file.
 
 ``sudo nano /etc/vsftpd.conf``
 
-#### 3.3 Modify parameters/values as follows:
+### Task 3.3 Modify parameters/values as follows:
 
 ``listen=NO``
 
@@ -108,11 +108,11 @@ Ctrl X + Y + Enter to save changes.
 
 ``sudo passwd tester``
 
-#### 4.1 Add the new user to the allowed FTP users list.
+### Task 4.1 Add the new user to the allowed FTP users list.
 
 ``echo "tin" | sudo tee -a /etc/vsftpd.userlist``
 
-#### 4.2 Restart VSFTPD service.
+### Task 4.2 Restart VSFTPD service.
 
 ``sudo systemctl restart vsftpd``
 
@@ -124,8 +124,8 @@ Ctrl X + Y + Enter to save changes.
 
 ``sudo apt install filezilla``
 
-#### 5.2 launch FileZilla.
+### Task 5.2 launch FileZilla.
 
 ``filezilla``
 
-**For further understanding and application of these apps, search apart.**
+#### For further understanding and application of these apps, search apart.

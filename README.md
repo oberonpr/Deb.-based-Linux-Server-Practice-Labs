@@ -9,7 +9,7 @@
 
 - The GNU/Linux I used to create and test these labs was Debian 11 (Bullseye), Ubuntu 22.10 (Kinetic Kudu), and Linux Mint 21.1, and for my virtual machines, I used "Gnome Boxes."
 
-- Feel free to use your flavor of both GNU/Linux and Virtual Machine client; as long as your Linux selection is Deb. based, you should be able to run every Lab.
+- Feel free to use your flavor of both GNU/Linux and Virtual Machine client; as long as your Linux selection is Deb. based, you should be able to run every Lab. Personal recommendation for beginners: Linux Mint Xfce or Mate.
 
 - This is a rolling project, meaning the number of labs and some of its content might change with time to bring better quality content.
 

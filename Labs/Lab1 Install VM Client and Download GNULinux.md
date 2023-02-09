@@ -25,5 +25,3 @@ Follow the installation process and make sure to:
 ``sudo apt-get upgrade``
 
 - How to install and update/upgrade Deb. based GNU/Linux video tutorial: ----
-
-- How to set up Virtual Box or Gnome Boxes video tutorial (you can use any other option): ----

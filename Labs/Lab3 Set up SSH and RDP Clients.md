@@ -38,6 +38,4 @@ Remmina: ``You can open this through the GUI, search your apps``
 
 ### Task 4. Try connecting to your "Secondary" VM through OpenSSH. Make sure your VM is up. 
 
-For learning how to remote connect through these apps, look apart.
-
-How to connect using Remmina; here's a video tutorial: ----
+Video tutorial: ----

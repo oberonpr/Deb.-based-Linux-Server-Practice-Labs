@@ -106,8 +106,6 @@ Ctrl X + Y + Enter to save changes.
 
 ``sudo adduser tester``
 
-``sudo passwd tester``
-
 ### Task 4.1 Add the new user to the allowed FTP users list.
 
 ``echo "tin" | sudo tee -a /etc/vsftpd.userlist``
